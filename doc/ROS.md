@@ -1,4 +1,16 @@
 
+ROS
+[树莓派&ROS：安装系统 Raspbian、ROS2GO和ROS Kinectic](https://blog.csdn.net/nomil9/article/details/84728380)
+
+[制作树莓派wifi遥控和自动避障小车](https://www.jianshu.com/p/f708d1c79f34)
+
+
+[starRTC集成示例之遥控小车](https://www.bilibili.com/video/av23817880/)
+
+[我用树莓派做的小玩具](https://post.smzdm.com/p/a3gwe47k/)
+[WordCards](https://github.com/lxrmido/WordCards.git)
+[墨水屏台历](https://github.com/lxrmido/node-paper-calendar)
+
 # 参考文档
 [官方入门教程](http://wiki.ros.org/ROS/Tutorials)
 
