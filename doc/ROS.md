@@ -2,8 +2,13 @@
 ROS
 [树莓派&ROS：安装系统 Raspbian、ROS2GO和ROS Kinectic](https://blog.csdn.net/nomil9/article/details/84728380)
 
+硬件
+[树莓派(Raspberry Pi 3)——智能小车](https://www.jianshu.com/p/506534537194)
 [制作树莓派wifi遥控和自动避障小车](https://www.jianshu.com/p/f708d1c79f34)
 
+遥控
+蓝牙
+[树莓派控制的智能小车](https://www.jianshu.com/p/fe9527dd49e5)
 
 [starRTC集成示例之遥控小车](https://www.bilibili.com/video/av23817880/)
 
